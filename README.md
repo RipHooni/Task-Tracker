@@ -1,5 +1,6 @@
 # Task Manager
-# https://roadmap.sh/projects/task-tracker
+# [https://roadmap.sh/projects/task-tracker](url)
+# [https://github.com/RipHooni/Task-Tracker/tree/main](url)
 A simple command-line Task Manager built in Python that allows you to add, update, delete, list, and change the status of tasks. Tasks are stored in a JSON file (`tasks.json`).
 
 ## Features
