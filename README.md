@@ -16,8 +16,7 @@ A simple command-line Task Manager built in Python that allows you to add, updat
 1. **Clone the Repo:**
 
    ```bash
-   git clone https://github.com/yourusername/TaskManager.git
-   cd TaskManager
+   git clone <repository-url>
    ```
 
 2. **Run the Application:**
